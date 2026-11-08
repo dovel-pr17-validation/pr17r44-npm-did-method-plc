@@ -262,8 +262,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1
       '@atproto/crypto':
-        specifier: 0.5.4
-        version: 0.5.4
+        specifier: 0.5.6
+        version: 0.5.6
       '@ipld/dag-cbor':
         specifier: ^9.0.0
         version: 9.2.7
@@ -290,8 +290,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1
       '@atproto/crypto':
-        specifier: 0.5.4
-        version: 0.5.4
+        specifier: 0.5.6
+        version: 0.5.6
       '@did-plc/lib':
         specifier: workspace:*
         version: link:../lib
@@ -403,8 +403,8 @@ packages:
     resolution: {integrity: sha512-WvgY0CDgodmTS7B1KDVFt868h1b85iQtQZeoDVI+6oOZmg1jINWUl+bZ1rwf59Tk1PqcMz5OzH6OS2J7Mb9/Iw==}
     engines: {node: '>=22'}
 
-  '@atproto/crypto@0.5.4':
-    resolution: {integrity: sha512-UR0BkuYNYuFtw+dA+y/oPPxzX0SWRnGJ+1Cfh/jGP1BvjRUyezK3omjpeLms5fYrXbM9vnfX+ckJFJqkBgLOdw==}
+  '@atproto/crypto@0.5.6':
+    resolution: {integrity: sha512-eOf+YJwyMJWag+4vJlxChU2LaJJR9ii3R2KI3e4ekmYCwhVy9f7a5HbrNYfNsppQnPy7Qy8ragJKHjKW2GcdzA==}
     engines: {node: '>=22'}
 
   '@atproto/lex-cbor@0.1.6':
@@ -2684,7 +2684,7 @@ snapshots:
       multiformats: 13.4.2
       pino: 10.3.1
 
-  '@atproto/crypto@0.5.4':
+  '@atproto/crypto@0.5.6':
     dependencies:
       '@noble/curves': 1.8.0
       '@noble/hashes': 1.7.0

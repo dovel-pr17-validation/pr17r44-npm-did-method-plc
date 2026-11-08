@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@atproto/common": "0.8.1",
-    "@atproto/crypto": "0.5.4",
+    "@atproto/crypto": "0.5.6",
     "@did-plc/lib": "workspace:*",
     "@opentelemetry/api": "^1.9.1",
     "@opentelemetry/core": "^2.9.0",
