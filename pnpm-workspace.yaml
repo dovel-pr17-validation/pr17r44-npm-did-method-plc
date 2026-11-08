@@ -1,0 +1,8 @@
+packages:
+  - 'packages/*'
+  - 'packages/server/service'
+
+allowBuilds:
+  cbor-extract: true
+  esbuild: false
+  protobufjs: false

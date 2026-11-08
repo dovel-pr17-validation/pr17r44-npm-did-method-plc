@@ -1,0 +1,18 @@
+node_modules
+npm-debug.log
+pnpm-debug.log
+packages/*/dist
+.idea
+packages/*/coverage
+.vscode/
+.DS_Store
+*.log
+**/*.tsbuildinfo
+.env
+.*.env
+\#*\#
+*~
+*.swp
+
+# Don't ignore this file itself
+!.gitignore
