@@ -38,7 +38,7 @@
     "migration:create": "node ./bin/migration-create.ts"
   },
   "dependencies": {
-    "@atproto/common": "0.8.1",
+    "@atproto/common": "0.8.9",
     "@atproto/crypto": "0.5.4",
     "@did-plc/lib": "workspace:*",
     "@opentelemetry/api": "^1.9.1",
